@@ -254,3 +254,7 @@ classified map in Earth Engine, saved as
 The Sentinel-2 pixel table and the field reference polygons are not in this
 repository. Reference polygon locations are field-collected and may need
 aggregation before release.
+
+## Author
+
+flingo
